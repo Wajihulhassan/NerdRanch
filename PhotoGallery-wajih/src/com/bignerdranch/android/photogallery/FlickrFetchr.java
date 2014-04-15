@@ -22,7 +22,8 @@ public class FlickrFetchr {
     public static final String PREF_LAST_RESULT_ID = "lastResultId";
 
     private static final String ENDPOINT = "http://api.flickr.com/services/rest/";
-    // I don't know If I should I upload my API Key
+    // I don't know If I should I upload my API Key 
+    // 
     private static final String API_KEY = "01f85ab234a24e1407d37acc2c5d885c";
     private static final String METHOD_GET_RECENT = "flickr.photos.getRecent";
     private static final String METHOD_SEARCH = "flickr.photos.search";
